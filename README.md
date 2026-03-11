@@ -22,33 +22,10 @@ Berikut fungsionalitas yang diimplementasikan dalam class `TV.java`:
 
 ---
 
-Pastikan sudah menginstal JDK (Java Development Kit) di komputermu.
-
-1.  Clone Repositori
-    ```bash
-    git clone [https://github.com/username-kamu/latihan-pbo-pertemuan2.git](https://github.com/username-kamu/latihan-pbo-pertemuan2.git)
-    ```
-
-2.  Masuk ke Direktori
-    ```bash
-    cd latihan-pbo-pertemuan2
-    ```
-
-3.  Kompilasi Program
-    ```bash
-    javac TV.java TestTV.java
-    ```
-
-4.  Jalankan Program
-    ```bash
-    java TestTV
-    ```
-
----
-
 📊 Preview Output
 Program akan mencetak status dari dua objek TV yang dimanipulasi secara berbeda:
 ```text
 tv1's channel is 30 and volume level is 3
 tv2's channel is 3 and volume level is 2
+
 
